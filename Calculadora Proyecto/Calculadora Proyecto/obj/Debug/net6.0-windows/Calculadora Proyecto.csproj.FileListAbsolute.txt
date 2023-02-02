@@ -1,0 +1,17 @@
+D:\Calculadora Proyecto\Calculadora Proyecto\bin\Debug\net6.0-windows\Calculadora Proyecto.exe
+D:\Calculadora Proyecto\Calculadora Proyecto\bin\Debug\net6.0-windows\Calculadora Proyecto.deps.json
+D:\Calculadora Proyecto\Calculadora Proyecto\bin\Debug\net6.0-windows\Calculadora Proyecto.runtimeconfig.json
+D:\Calculadora Proyecto\Calculadora Proyecto\bin\Debug\net6.0-windows\Calculadora Proyecto.dll
+D:\Calculadora Proyecto\Calculadora Proyecto\bin\Debug\net6.0-windows\Calculadora Proyecto.pdb
+D:\Calculadora Proyecto\Calculadora Proyecto\obj\Debug\net6.0-windows\Calculadora Proyecto.csproj.AssemblyReference.cache
+D:\Calculadora Proyecto\Calculadora Proyecto\obj\Debug\net6.0-windows\Calculadora Proyecto.csproj.GenerateResource.cache
+D:\Calculadora Proyecto\Calculadora Proyecto\obj\Debug\net6.0-windows\Calculadora Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calculadora Proyecto\Calculadora Proyecto\obj\Debug\net6.0-windows\Calculadora Proyecto.AssemblyInfoInputs.cache
+D:\Calculadora Proyecto\Calculadora Proyecto\obj\Debug\net6.0-windows\Calculadora Proyecto.AssemblyInfo.cs
+D:\Calculadora Proyecto\Calculadora Proyecto\obj\Debug\net6.0-windows\Calculadora Proyecto.csproj.CoreCompileInputs.cache
+D:\Calculadora Proyecto\Calculadora Proyecto\obj\Debug\net6.0-windows\Calculadora Proyecto.dll
+D:\Calculadora Proyecto\Calculadora Proyecto\obj\Debug\net6.0-windows\refint\Calculadora Proyecto.dll
+D:\Calculadora Proyecto\Calculadora Proyecto\obj\Debug\net6.0-windows\Calculadora Proyecto.pdb
+D:\Calculadora Proyecto\Calculadora Proyecto\obj\Debug\net6.0-windows\Calculadora Proyecto.genruntimeconfig.cache
+D:\Calculadora Proyecto\Calculadora Proyecto\obj\Debug\net6.0-windows\ref\Calculadora Proyecto.dll
+D:\Calculadora Proyecto\Calculadora Proyecto\obj\Debug\net6.0-windows\Calculadora_Proyecto.CalculadoraProyecto.resources
